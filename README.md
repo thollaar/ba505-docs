@@ -9,6 +9,6 @@ _Fall 2019_
 + Lecture Slides ([Here](https://github.com/DrJieTao/ba505-docs/tree/master/slides) or Google Docs)
 + Downloads (To Be Updated)
 + [Coding Assignments](https://github.com/DrJieTao/ba505-docs/tree/master/coding_assignments)
-+ [JuoyterHub User Guide](https://github.com/DrJieTao/ba545-docs/blob/master/1_28_2019%20JupyterHub-Guide.pdf)
++ [JupyterHub User Guide](https://github.com/DrJieTao/ba545-docs/blob/master/1_28_2019%20JupyterHub-Guide.pdf)
   + Special thanks to Ms. Pu for preparing this document. If you have any technical issues, please contact [Ms. Pu](mailto:yue.pu@fairfield.edu).
 
