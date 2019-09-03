@@ -83,7 +83,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 :--- | :---
 | In-class Labs | 10 x 12 = __120__ points |
 | DataCamp Assignments | 15 x 10 = __150__ points |
-| Coding Assignments | 23 x 10 = __230__ points | 
+| Coding Assignments | 46 x 5 = __230__ points | 
 | Final Project Proposal | __100__ points |
 | Final Project Deliverable | __300__ points |
 | Participation and Professionalism | __100__ points |
