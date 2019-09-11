@@ -1,0 +1,36 @@
+# Homework week 1 - BA505
+# Name: Anthonie Hollaar
+# Date: 10-09-2019
+# Assignment: Finish Exercise 5, 7 and 9 after Chapter 1
+
+#            Exercise 5: What is wrong with the following code:
+#            >>> primt 'Hello world!'
+#            File "<stdin>", line 1
+#            primt 'Hello world!'
+#            ^
+#            SyntaxError: invalid syntax
+
+# Answer: syntax error -> `print('Hello World')` should be the correct language for Python to recognize it (primt should be print).
+
+
+#            Exercise 7: What will the following program print out:
+#            x = 43
+#            x = x + 1
+#            print(x)
+#            a) 43
+#            b) 44
+#            c) x + 1
+#            d) Error because x = x + 1 is not possible mathematically
+
+# Answer: B => 44, because the variable x = 43 is redefined by x = x+1, so that x = (43+1) = 44
+
+
+#           Exercise 9: How do you fix a “Syntax Error”?
+
+# Answer:  Python doesn't recognize the code/syntax that you are using. 
+#          Read the error code and the line where the Python language was wrongly used.
+#          You need to check for spelling/grammatical errors in the line provided in the error code, such as: spaces, brackets, parantheses, wrongly spelled preserved words or the lack of the   
+#          former mentioned options.
+#          Correct your mistake and run the code again.
+#          If the error persists after re-running the code, try to trace your steps back from the point the error is shown and see if the unrecognized syntax appears earlier in your script and 
+#          repeat these steps untill the syntax error is fixed.
